@@ -18,10 +18,6 @@ or <a href="mailto:juliothe1st@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
-</div>
-
-<div align="center">
-
 </br>
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
