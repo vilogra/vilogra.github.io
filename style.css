@@ -420,6 +420,11 @@ article .icon {
   height: 2.5rem;
 }
 
+.buttonIt {
+  cursor: pointer;
+  text-align: center;
+}
+
 /* FOOTER SECTION */
 
 footer {
